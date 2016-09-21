@@ -2,3 +2,16 @@ h1 /* ///// Titre //////// */
 {	color: red; 	text-align: center; font-family: sans-serif;  }
 
 .intro   { text-align: center; color: fuchsia }
+
+
+h2
+{	color: blue; font-family: sans-serif; clear: both; }
+
+.comp
+{	font-style: italic; font-weight: bold;  }
+
+.date
+{	font-weight: bold; text-decoration: underline;  }
+
+.description
+{	color: grey;   }
